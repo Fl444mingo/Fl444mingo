@@ -1,4 +1,4 @@
 # About
 - Certified Solidworks Professional
-- Certified C++ Beginner
+- Not-so-certified C++ Beginner
 - ♾️
